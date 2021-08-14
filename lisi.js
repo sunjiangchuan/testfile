@@ -1,2 +1,3 @@
 alert("qian");
-console.log("zhao")
+console.log("zhao");
+confirm("rest");
