@@ -1,2 +1,2 @@
-alert("lisi");
+alert("qian");
 console.log("zhao")
